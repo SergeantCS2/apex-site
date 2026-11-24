@@ -21,7 +21,7 @@
 </p>
 
 - **Fully offline:** maps, routing, satellite imagery, search and photos are on the phone.
-- **Legal routing:** knows which lines your machine may ride (DNR and Forest Service data) and routes only on those.
+- **Legal routing:** routes only on lines your machine may ride, by DNR and Forest Service designations; OpenStreetMap roads and two-tracks fill the gaps and are marked unverified.
 - **Free:** no account, no ads, no tracking. Android 8.0+.
 
 ## Quick start
